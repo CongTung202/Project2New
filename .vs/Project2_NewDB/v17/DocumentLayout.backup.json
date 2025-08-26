@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Project2_NewDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\chitiethoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\chitiethoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\quantrivienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\quantrivienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\models\\quanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\models\\quanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:38:55.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTietHoaDonsController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:34:14.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\HoaDonsController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\HoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:31:15.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanTriViensController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\QuanTriViensController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\QuanTriViensController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\QuanTriViensController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\QuanTriViensController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:26:37.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Project2_NewDB\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T13:19:45.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:23:17.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoaiSanPhamsController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\LoaiSanPhamsController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\LoaiSanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:19:17.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Program.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Program.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Program.cs",
+              "RelativeToolTip": "Project2_NewDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:14:57.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\appsettings.json",
+              "RelativeDocumentMoniker": "Project2_NewDB\\appsettings.json",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\appsettings.json",
+              "RelativeToolTip": "Project2_NewDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T13:14:34.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLyBanHangContext.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
+              "RelativeToolTip": "Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:13:12.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
