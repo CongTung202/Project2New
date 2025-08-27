@@ -17,6 +17,8 @@ public partial class ChiTietHoaDon
 
     public int MaSp { get; set; }
 
+    public bool TrangThai { get; set; }
+
     public virtual HoaDon MaHdNavigation { get; set; } = null!;
 
     public virtual SanPham MaSpNavigation { get; set; } = null!;

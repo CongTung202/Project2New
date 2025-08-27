@@ -45,6 +45,29 @@ namespace Project2_NewDB.Controllers
             return View(chiTietHoaDon);
         }
 
+        // GET: ChiTietHoaDons/Nhap
+        public IActionResult Nhap()
+        {
+            ViewData["MaHd"] = new SelectList(_context.HoaDons, "MaHd", "MaHd");
+            ViewData["MaSp"] = new SelectList(_context.SanPhams, "MaSp", "MaSp");
+            return View();
+        }
+
+        // POST: ChiTietHoaDons/Nhap
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Nhap([Bind("SoLuong,DonGia,ThanhTien,MaHd,MaSp,TrangThai")] ChiTietHoaDon chiTietHoaDon)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Add(chiTietHoaDon);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            ViewData["MaHd"] = new SelectList(_context.HoaDons, "MaHd", "MaHd", chiTietHoaDon.MaHd);
+            ViewData["MaSp"] = new SelectList(_context.SanPhams, "MaSp", "MaSp", chiTietHoaDon.MaSp);
+            return View(chiTietHoaDon);
+        }
         // GET: ChiTietHoaDons/Create
         public IActionResult Create()
         {
@@ -58,8 +81,14 @@ namespace Project2_NewDB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("MaCthd,SoLuong,DonGia,ThanhTien,MaHd,MaSp")] ChiTietHoaDon chiTietHoaDon)
+        public async Task<IActionResult> Create([Bind("MaCthd,SoLuong,DonGia,ThanhTien,MaHd,MaSp,TrangThai")] ChiTietHoaDon chiTietHoaDon)
         {
+            if (!_context.HoaDons.Any(h => h.MaHd == chiTietHoaDon.MaHd) ||
+                !_context.SanPhams.Any(s => s.MaSp == chiTietHoaDon.MaSp))
+            {
+                ModelState.AddModelError("", "Khóa ngoại không hợp lệ.");
+            }
+
             if (ModelState.IsValid)
             {
                 _context.Add(chiTietHoaDon);
@@ -94,7 +123,7 @@ namespace Project2_NewDB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("MaCthd,SoLuong,DonGia,ThanhTien,MaHd,MaSp")] ChiTietHoaDon chiTietHoaDon)
+        public async Task<IActionResult> Edit(int id, [Bind("MaCthd,SoLuong,DonGia,ThanhTien,MaHd,MaSp,TrangThai")] ChiTietHoaDon chiTietHoaDon)
         {
             if (id != chiTietHoaDon.MaCthd)
             {

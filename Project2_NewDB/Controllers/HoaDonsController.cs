@@ -21,7 +21,7 @@ namespace Project2_NewDB.Controllers
         // GET: HoaDons
         public async Task<IActionResult> Index()
         {
-            var quanLyBanHangContext = _context.HoaDons.Include(h => h.MaKhNavigation).Include(h => h.MaQtvNavigation);
+            var quanLyBanHangContext = _context.HoaDons.Include(h => h.MaKhNavigation);
             return View(await quanLyBanHangContext.ToListAsync());
         }
 
@@ -35,7 +35,6 @@ namespace Project2_NewDB.Controllers
 
             var hoaDon = await _context.HoaDons
                 .Include(h => h.MaKhNavigation)
-                .Include(h => h.MaQtvNavigation)
                 .FirstOrDefaultAsync(m => m.MaHd == id);
             if (hoaDon == null)
             {
@@ -49,7 +48,6 @@ namespace Project2_NewDB.Controllers
         public IActionResult Create()
         {
             ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "MaKh");
-            ViewData["MaQtv"] = new SelectList(_context.QuanTriViens, "MaQtv", "MaQtv");
             return View();
         }
 
@@ -58,7 +56,7 @@ namespace Project2_NewDB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("MaHd,NgayLap,TongTien,MaKh,MaQtv")] HoaDon hoaDon)
+        public async Task<IActionResult> Create([Bind("MaHd,NgayLap,TongTien,MaKh,TrangThai")] HoaDon hoaDon)
         {
             if (ModelState.IsValid)
             {
@@ -67,7 +65,6 @@ namespace Project2_NewDB.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "MaKh", hoaDon.MaKh);
-            ViewData["MaQtv"] = new SelectList(_context.QuanTriViens, "MaQtv", "MaQtv", hoaDon.MaQtv);
             return View(hoaDon);
         }
 
@@ -85,7 +82,6 @@ namespace Project2_NewDB.Controllers
                 return NotFound();
             }
             ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "MaKh", hoaDon.MaKh);
-            ViewData["MaQtv"] = new SelectList(_context.QuanTriViens, "MaQtv", "MaQtv", hoaDon.MaQtv);
             return View(hoaDon);
         }
 
@@ -94,7 +90,7 @@ namespace Project2_NewDB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("MaHd,NgayLap,TongTien,MaKh,MaQtv")] HoaDon hoaDon)
+        public async Task<IActionResult> Edit(int id, [Bind("MaHd,NgayLap,TongTien,MaKh,TrangThai")] HoaDon hoaDon)
         {
             if (id != hoaDon.MaHd)
             {
@@ -122,7 +118,6 @@ namespace Project2_NewDB.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "MaKh", hoaDon.MaKh);
-            ViewData["MaQtv"] = new SelectList(_context.QuanTriViens, "MaQtv", "MaQtv", hoaDon.MaQtv);
             return View(hoaDon);
         }
 
@@ -136,7 +131,6 @@ namespace Project2_NewDB.Controllers
 
             var hoaDon = await _context.HoaDons
                 .Include(h => h.MaKhNavigation)
-                .Include(h => h.MaQtvNavigation)
                 .FirstOrDefaultAsync(m => m.MaHd == id);
             if (hoaDon == null)
             {

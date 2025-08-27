@@ -15,5 +15,7 @@ public partial class KhachHang
 
     public string? DiaChi { get; set; }
 
+    public bool TrangThai { get; set; }
+
     public virtual ICollection<HoaDon> HoaDons { get; set; } = new List<HoaDon>();
 }

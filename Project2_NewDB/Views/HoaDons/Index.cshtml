@@ -1,6 +1,7 @@
 ﻿@model IEnumerable<Project2_NewDB.Models.HoaDon>
 
 @{
+    Layout = "_LayoutAdmin";
     ViewData["Title"] = "Index";
 }
 
@@ -19,10 +20,10 @@
                 @Html.DisplayNameFor(model => model.TongTien)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.MaKhNavigation)
+                @Html.DisplayNameFor(model => model.TrangThai)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.MaQtvNavigation)
+                @Html.DisplayNameFor(model => model.MaKhNavigation)
             </th>
             <th></th>
         </tr>
@@ -37,10 +38,10 @@
                 @Html.DisplayFor(modelItem => item.TongTien)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.MaKhNavigation.MaKh)
+                @Html.DisplayFor(modelItem => item.TrangThai)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.MaQtvNavigation.MaQtv)
+                @Html.DisplayFor(modelItem => item.MaKhNavigation.MaKh)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.MaHd">Edit</a> |

@@ -1,6 +1,7 @@
 ﻿@model IEnumerable<Project2_NewDB.Models.ChiTietHoaDon>
 
 @{
+    Layout = "_LayoutAdmin";
     ViewData["Title"] = "Index";
 }
 
@@ -22,6 +23,9 @@
                 @Html.DisplayNameFor(model => model.ThanhTien)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.TrangThai)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.MaHdNavigation)
             </th>
             <th>
@@ -41,6 +45,9 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.ThanhTien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrangThai)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.MaHdNavigation.MaHd)

@@ -1,52 +1,73 @@
 ﻿@model Project2_NewDB.Models.SanPham
 
 @{
-    ViewData["Title"] = "Create";
+    Layout = "_LayoutAdmin";
+    ViewData["Title"] = "Create New Product";
 }
 
-<h1>Create</h1>
+<h1 class="mb-4">Create New Product</h1>
 
-<h4>SanPham</h4>
-<hr />
 <div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="TenSp" class="control-label"></label>
-                <input asp-for="TenSp" class="form-control" />
+    <div class="col-md-6">
+        <form asp-action="Create" enctype="multipart/form-data" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="mb-3">
+                <label asp-for="TenSp" class="form-label"></label>
+                <input asp-for="TenSp" class="form-control" placeholder="Enter product name" />
                 <span asp-validation-for="TenSp" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="MoTa" class="control-label"></label>
-                <input asp-for="MoTa" class="form-control" />
-                <span asp-validation-for="MoTa" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="DonGia" class="control-label"></label>
-                <input asp-for="DonGia" class="form-control" />
+
+            <div class="mb-3">
+                <label asp-for="DonGia" class="form-label"></label>
+                <input asp-for="DonGia" class="form-control" placeholder="Enter price" />
                 <span asp-validation-for="DonGia" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="SoLuong" class="control-label"></label>
-                <input asp-for="SoLuong" class="form-control" />
+
+            <div class="mb-3">
+                <label asp-for="SoLuong" class="form-label"></label>
+                <input asp-for="SoLuong" class="form-control" placeholder="Enter quantity" />
                 <span asp-validation-for="SoLuong" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="MaLoai" class="control-label"></label>
-                <select asp-for="MaLoai" class ="form-control" asp-items="ViewBag.MaLoai"></select>
+
+            <div class="mb-3">
+                <label asp-for="MaLoai" class="form-label"></label>
+                <select asp-for="MaLoai" class="form-select" asp-items="ViewBag.MaLoai"></select>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+
+            <div class="mb-3">
+                <label class="form-label">Product Image</label>
+                <input asp-for="HinhAnhFile" type="file" class="form-control" accept="image/*" onchange="previewImage(event)" />
+                <span asp-validation-for="HinhAnhFile" class="text-danger"></span>
+                <img id="imgPreview" src="#" alt="Preview" class="img-thumbnail mt-2" style="display:none; max-width:200px;" />
+            </div>
+
+            <div class="mb-3">
+                <input type="submit" value="Create Product" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-secondary ms-2">Back to List</a>
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        function previewImage(event) {
+            var input = event.target;
+            var reader = new FileReader();
+            reader.onload = function(){
+                var dataURL = reader.result;
+                var output = document.getElementById('imgPreview');
+                output.src = dataURL;
+                output.style.display = 'block';
+            };
+            if(input.files && input.files[0]){
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+    </script>
 }

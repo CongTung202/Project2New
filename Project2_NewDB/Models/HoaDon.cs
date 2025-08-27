@@ -13,11 +13,9 @@ public partial class HoaDon
 
     public int? MaKh { get; set; }
 
-    public int? MaQtv { get; set; }
+    public bool TrangThai { get; set; }
 
     public virtual ICollection<ChiTietHoaDon> ChiTietHoaDons { get; set; } = new List<ChiTietHoaDon>();
 
     public virtual KhachHang? MaKhNavigation { get; set; }
-
-    public virtual QuanTriVien? MaQtvNavigation { get; set; }
 }

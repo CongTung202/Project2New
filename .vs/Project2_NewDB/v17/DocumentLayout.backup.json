@@ -3,20 +3,188 @@
   "WorkspaceRootPath": "B:\\Project2_NewDB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\shared\\_navbaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\shared\\_navbaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\chitiethoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\chitiethoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\chitiethoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\chitiethoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\chitiethoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\chitiethoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\chitiethoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\chitiethoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\chitiethoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\chitiethoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\hoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\hoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\hoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\hoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\hoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\hoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\khachhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\khachhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\khachhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\khachhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\khachhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\khachhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\loaisanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\loaisanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\loaisanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\loaisanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\loaisanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\loaisanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\loaisanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\loaisanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\quantriviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\quantriviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\quantriviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\quantriviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\quantriviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\quantriviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\quantriviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\quantriviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\quantriviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\quantriviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\views\\chitiethoadons\\nhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\views\\chitiethoadons\\nhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\chitiethoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\chitiethoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\models\\quantrivien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\models\\quantrivien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\models\\quanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\models\\quanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\quantrivienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,18 +193,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\models\\quanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|solutionrelative:project2_newdb\\models\\quanlybanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F1AB3F0-36D1-4863-BB07-2C993D918481}|Project2_NewDB\\Project2_NewDB.csproj|b:\\project2_newdb\\project2_newdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -53,12 +209,609 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\ChiTietHoaDons\\Index.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Index.cshtml*",
+              "RelativeToolTip": "Project2_NewDB\\Views\\ChiTietHoaDons\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T05:03:02.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\ChiTietHoaDons\\Edit.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Edit.cshtml*",
+              "RelativeToolTip": "Project2_NewDB\\Views\\ChiTietHoaDons\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T05:03:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\ChiTietHoaDons\\Details.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Details.cshtml*",
+              "RelativeToolTip": "Project2_NewDB\\Views\\ChiTietHoaDons\\Details.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T05:02:57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T13:19:45.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_NavbarAdmin.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_NavbarAdmin.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\Shared\\_NavbarAdmin.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_NavbarAdmin.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\Shared\\_NavbarAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:52:34.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:52:29.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\ChiTietHoaDons\\Delete.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Delete.cshtml*",
+              "RelativeToolTip": "Project2_NewDB\\Views\\ChiTietHoaDons\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T05:02:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\HoaDons\\Index.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Index.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\HoaDons\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:56:59.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\HoaDons\\Edit.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Edit.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\HoaDons\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:56:53.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\HoaDons\\Details.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Details.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\HoaDons\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:56:49.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Program.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Program.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Program.cs",
+              "RelativeToolTip": "Project2_NewDB\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:14:57.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\ChiTietHoaDons\\Create.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Create.cshtml*",
+              "RelativeToolTip": "Project2_NewDB\\Views\\ChiTietHoaDons\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:31:53.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\HoaDons\\Delete.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Delete.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\HoaDons\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:56:40.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\HoaDons\\Create.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\HoaDons\\Create.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\HoaDons\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:56:33.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\KhachHangs\\Index.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Index.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\KhachHangs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:56:22.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\KhachHangs\\Edit.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Edit.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\KhachHangs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:56:17.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\KhachHangs\\Details.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Details.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\KhachHangs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:56:12.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\KhachHangs\\Delete.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Delete.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\KhachHangs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:56:05.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\KhachHangs\\Create.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\KhachHangs\\Create.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\KhachHangs\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:55:53.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\LoaiSanPhams\\Edit.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Edit.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\LoaiSanPhams\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:55:43.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\LoaiSanPhams\\Index.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Index.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\LoaiSanPhams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:55:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\LoaiSanPhams\\Details.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Details.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\LoaiSanPhams\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:55:30.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\LoaiSanPhams\\Delete.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Delete.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\LoaiSanPhams\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:55:25.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\LoaiSanPhams\\Create.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\LoaiSanPhams\\Create.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\LoaiSanPhams\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:55:20.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\QuanTriViens\\Index.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Index.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\QuanTriViens\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:55:10.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\QuanTriViens\\Edit.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Edit.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\QuanTriViens\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:54:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\QuanTriViens\\Details.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Details.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\QuanTriViens\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:54:36.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\QuanTriViens\\Delete.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Delete.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\QuanTriViens\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:54:31.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\QuanTriViens\\Create.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\QuanTriViens\\Create.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\QuanTriViens\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:54:25.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\SanPhams\\Index.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Index.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\SanPhams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T18:37:56.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\SanPhams\\Edit.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\SanPhams\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T18:22:46.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\SanPhams\\Details.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Details.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\SanPhams\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T18:22:44.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\SanPhams\\Delete.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\SanPhams\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T18:22:43.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T18:16:52.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Nhap.cshtml",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Nhap.cshtml",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\ChiTietHoaDons\\Nhap.cshtml",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\ChiTietHoaDons\\Nhap.cshtml",
+              "RelativeToolTip": "Project2_NewDB\\Views\\ChiTietHoaDons\\Nhap.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:45:28.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChiTietHoaDonsController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:58:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\HoaDonsController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\HoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:57:27.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "QuanTriVien.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\QuanTriVien.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Models\\QuanTriVien.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\QuanTriVien.cs",
+              "RelativeToolTip": "Project2_NewDB\\Models\\QuanTriVien.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:52:59.217Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 35,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "Project2_NewDB\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:33:28.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Models\\LoaiSanPham.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "Project2_NewDB\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:53:18.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "QuanLyBanHangContext.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
+              "RelativeToolTip": "Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:13:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Models\\SanPham.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\SanPham.cs",
+              "RelativeToolTip": "Project2_NewDB\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:19:32.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "QuanTriViensController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\QuanTriViensController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\QuanTriViensController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\QuanTriViensController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\QuanTriViensController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:52:52.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Models\\HoaDon.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Project2_NewDB\\Models\\HoaDon.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:04:50.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\HomeController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:34:00.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Project2_NewDB\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAiwP0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:23:30.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "KhachHangsController.cs",
               "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\KhachHangsController.cs",
               "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\KhachHangsController.cs",
@@ -71,72 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChiTietHoaDonsController.cs",
-              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
-              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
-              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
-              "RelativeToolTip": "Project2_NewDB\\Controllers\\ChiTietHoaDonsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T13:34:14.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HoaDonsController.cs",
-              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\HoaDonsController.cs",
-              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\HoaDonsController.cs",
-              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\HoaDonsController.cs",
-              "RelativeToolTip": "Project2_NewDB\\Controllers\\HoaDonsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T13:31:15.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuanTriViensController.cs",
-              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\QuanTriViensController.cs",
-              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\QuanTriViensController.cs",
-              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\QuanTriViensController.cs",
-              "RelativeToolTip": "Project2_NewDB\\Controllers\\QuanTriViensController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T13:26:37.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Project2_NewDB\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Project2_NewDB\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAB/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-26T13:19:45.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SanPhamsController.cs",
-              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\SanPhamsController.cs",
-              "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\SanPhamsController.cs",
-              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\SanPhamsController.cs",
-              "RelativeToolTip": "Project2_NewDB\\Controllers\\SanPhamsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T13:23:17.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 42,
               "Title": "LoaiSanPhamsController.cs",
               "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Controllers\\LoaiSanPhamsController.cs",
               "RelativeDocumentMoniker": "Project2_NewDB\\Controllers\\LoaiSanPhamsController.cs",
@@ -149,20 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Program.cs",
-              "RelativeDocumentMoniker": "Project2_NewDB\\Program.cs",
-              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Program.cs",
-              "RelativeToolTip": "Project2_NewDB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T13:14:57.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 48,
               "Title": "appsettings.json",
               "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\appsettings.json",
               "RelativeDocumentMoniker": "Project2_NewDB\\appsettings.json",
@@ -170,21 +845,7 @@
               "RelativeToolTip": "Project2_NewDB\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-26T13:14:34.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "QuanLyBanHangContext.cs",
-              "DocumentMoniker": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
-              "RelativeDocumentMoniker": "Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
-              "ToolTip": "B:\\Project2_NewDB\\Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
-              "RelativeToolTip": "Project2_NewDB\\Models\\QuanLyBanHangContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T13:13:12.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T13:14:34.432Z"
             }
           ]
         }

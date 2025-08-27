@@ -17,5 +17,5 @@ public partial class QuanTriVien
 
     public string? DiaChi { get; set; }
 
-    public virtual ICollection<HoaDon> HoaDons { get; set; } = new List<HoaDon>();
+    public bool TrangThai { get; set; }
 }

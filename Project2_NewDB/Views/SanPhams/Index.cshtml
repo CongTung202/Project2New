@@ -1,59 +1,62 @@
 ﻿@model IEnumerable<Project2_NewDB.Models.SanPham>
 
 @{
-    ViewData["Title"] = "Index";
+    Layout = "_LayoutAdmin";
+    ViewData["Title"] = "Product List";
 }
 
-<h1>Index</h1>
+<div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h1 class="h3">Product List</h1>
+        <a asp-action="Create" class="btn btn-success">+ Add New Product</a>
+    </div>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.TenSp)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MoTa)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DonGia)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SoLuong)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MaLoaiNavigation)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.TenSp)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MoTa)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DonGia)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.SoLuong)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MaLoaiNavigation.MaLoai)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.MaSp">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.MaSp">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.MaSp">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <div class="table-responsive">
+        <table class="table table-hover align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">Image</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.TenSp)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.DonGia)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.SoLuong)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.MaLoaiNavigation)</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="text-center">
+                            @if (!string.IsNullOrEmpty(item.MoTa))
+                            {
+                                <img src="@item.MoTa" alt="Product Image" class="img-thumbnail" style="width:80px; height:80px; object-fit:cover;" />
+                            }
+                            else
+                            {
+                                <div class="bg-light text-muted d-flex align-items-center justify-content-center" style="width:80px; height:80px;">
+                                    No Image
+                                </div>
+                            }
+                        </td>
+                        <td>@Html.DisplayFor(modelItem => item.TenSp)</td>
+                        <td><b>@string.Format("{0:N0} ₫", item.DonGia)</b></td>
+                        <td>
+                            <span class="badge bg-primary">@item.SoLuong</span>
+                        </td>
+                        <td>
+                            <span class="badge bg-secondary">@item.MaLoaiNavigation.TenLoai</span>
+                        </td>
+                        <td>
+                            <div class="btn-group" role="group">
+                                <a asp-action="Edit" asp-route-id="@item.MaSp" class="btn btn-sm btn-primary">Edit</a>
+                                <a asp-action="Details" asp-route-id="@item.MaSp" class="btn btn-sm btn-info">Details</a>
+                                <a asp-action="Delete" asp-route-id="@item.MaSp" class="btn btn-sm btn-danger">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

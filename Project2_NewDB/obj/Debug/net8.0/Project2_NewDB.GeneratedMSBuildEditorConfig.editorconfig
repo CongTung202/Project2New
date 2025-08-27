@@ -48,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldEhvYURvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[B:/Project2_NewDB/Project2_NewDB/Views/ChiTietHoaDons/Nhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldEhvYURvbnNcTmhhcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [B:/Project2_NewDB/Project2_NewDB/Views/HoaDons/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -158,6 +162,34 @@ build_metadata.AdditionalFiles.CssScope =
 
 [B:/Project2_NewDB/Project2_NewDB/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Project2_NewDB/Project2_NewDB/Views/Shared/_Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Project2_NewDB/Project2_NewDB/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Project2_NewDB/Project2_NewDB/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Project2_NewDB/Project2_NewDB/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Project2_NewDB/Project2_NewDB/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Project2_NewDB/Project2_NewDB/Views/Shared/_NavbarAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXJBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Project2_NewDB/Project2_NewDB/Views/Shared/_SearchBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hCYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [B:/Project2_NewDB/Project2_NewDB/Views/Shared/_ValidationScriptsPartial.cshtml]
